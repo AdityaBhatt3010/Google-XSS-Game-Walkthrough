@@ -393,21 +393,23 @@ Uppercase `HTTPS` bypasses the filter.
 
 ## 🏁 Conclusion
 
-The Google XSS Game mirrors real-world XSS mistakes still present in production systems. Each level reinforces a critical lesson:
+The Google XSS Game mirrors real-world XSS mistakes still present in production systems. Each level reinforces a critical lesson: <br/>
 
-> **Escaping input is meaningless without understanding execution context.**
+> **Escaping input is meaningless without understanding execution context.** <br/>
 
-If you can reason through these six levels, you’re already thinking like an attacker — and that’s exactly how strong defenders are built 🔐⚔️
+If you can reason through these six levels, you’re already thinking like an attacker — and that’s exactly how strong defenders are built 🔐⚔️ <br/>
 
-Happy hacking.
+Happy hacking. <br/>
+
+~ Aditya Bhatt <br/>
 
 ---
 
 ## ⭐ Follow Me & Connect
 
-🔗 **GitHub:** [https://github.com/AdityaBhatt3010](https://github.com/AdityaBhatt3010)
-💼 **LinkedIn:** [https://www.linkedin.com/in/adityabhatt3010/](https://www.linkedin.com/in/adityabhatt3010/)
-✍️ **Medium:** [https://medium.com/@adityabhatt3010](https://medium.com/@adityabhatt3010)
-👨‍💻 **PoC Repository:** [https://github.com/AdityaBhatt3010/Google-XSS-Game-Walkthrough/](https://github.com/AdityaBhatt3010/Google-XSS-Game-Walkthrough/)
+🔗 **GitHub:** [https://github.com/AdityaBhatt3010](https://github.com/AdityaBhatt3010) <br/>
+💼 **LinkedIn:** [https://www.linkedin.com/in/adityabhatt3010/](https://www.linkedin.com/in/adityabhatt3010/) <br/>
+✍️ **Medium:** [https://medium.com/@adityabhatt3010](https://medium.com/@adityabhatt3010) <br/>
+👨‍💻 **PoC Repository:** [https://github.com/AdityaBhatt3010/Google-XSS-Game-Walkthrough/](https://github.com/AdityaBhatt3010/Google-XSS-Game-Walkthrough/) <br/>
 
 ---
